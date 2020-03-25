@@ -1,0 +1,10 @@
+files:
+  - def
+directories:
+  - "test"
+  - "tests"
+  - "__test__"
+extension:
+  - md
+paths:
+  - abc
